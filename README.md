@@ -1,5 +1,5 @@
 Thank you for your interest! I do not take credit for the use and or availability of any Adobe Related Content, You alone are responsible for your actions and use of such
-content. This Project and any files made available are intended for Educational Purposes Only, All rights reserved to Adobe & Others.
+content. This Project and any files made available are intended for Educational Purposes and Use Only, All rights reserved to Adobe & Others.
 
 I DO NOT TAKE CREDIT FOR THE AVAILABILITY OF SUCH FILES AS THEY ARE SPREAD ACROSS THE INTERNET, THIS IS INTENDED TO TEACH THOSE WANTING TO LEARN AND NOTHING ELSE.
 
