@@ -1,9 +1,17 @@
-Thank you for your interest! I do not take credit for the use and or availability of any Adobe Related Content, You alone are responsible for your actions and use of such
-content. This Project and any files made available are intended for Educational Purposes and Use Only, All rights reserved to Adobe & Others.
+This Repository Provides Two Flash Options.
+* PPAPI [Pepper Flash] [ <= or > Visual Studio 2022]
+* AxShockwave [Flash] [ =< Visual Studio 2019] (May work with 22)
 
-I DO NOT TAKE CREDIT FOR THE AVAILABILITY OF SUCH FILES AS THEY ARE SPREAD ACROSS THE INTERNET, THIS IS INTENDED TO TEACH THOSE WANTING TO LEARN AND NOTHING ELSE.
+The version you choose will affect which steps you need to follow for use and enabling.
 
-ADOBE HAS STOPPED SUPPORTING FLASH AND IT SHOULD BE USED WITH CAUTION, THIS MAY PUT YOUR PC AT RISK, DUE TO SECURITY VULNERABILITIES WITHIN  "ALL REVISIONS" OF FLASH
-REGARDLESS OF WHAT THIRD PARTY SITES AND OTHERS MAY CLAIM, IT HAS SO MANY LOOPHOLES AND VULNERABILITIES, IT WAS DISCONTINUED....AND OF COURSE OTHER REASONS.
+Pepper Flash: is Dependant on a Browser that still has support, a.k.a. Custom Browsers/Etc...
+* This Variant of Flash does not require you to register the File and enables Flash for that browser (If the browsers allows it)
+* Security can be stored locally in the BaseDomain, allowing portability of the application with flash enabled.
+* Safer than the Usual Flash install, or a Shady EXE variant on the internet as it does not need to install.
 
-Anyhow Enjoy :)
+AxShockwave: Requires registering the OCX to the System. (can be done via Command-Line/C#)
+* This is the more typical "Flash" install and must be placed in System32 && SysWoW64 Macromed/Macromedia Folder
+* This version can be imported into a Visual Studio Project and Used for various purposes.
+* This version will allow older flash applications to run again (Use the System32/SysWoW64 but place the 32-bit only if you want most applications to reconize the registered install) For Example..: Sothink Flash Decompiler works just fine once this version is registered (32-bit)
+
+USE AT OWN RISK AND OWN LIABILITY. PROVIDED FOR EDUCATIONAL USE AND PURPOSES ONLY.
